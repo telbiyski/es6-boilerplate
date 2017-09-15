@@ -1,3 +1,11 @@
 # es6-boilerplate
-npm install
+
+
+```js
+npm i
+```
+
+
+```js
 node run
+```
